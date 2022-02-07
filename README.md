@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niket Kedia</h1>
-<h3 align="center">Data Scientist from India. Over 7+ years of experience</h3>
+<h3 align="center">Data Scientist from India. Over 7+ years of experience in R, Python, SQL, Tableau, Power BI etc.</h3>
 
 <p align="left"> <a href="https://twitter.com/niketkedia" target="blank"><img src="https://img.shields.io/twitter/follow/niketkedia?logo=twitter&style=for-the-badge" alt="niketkedia" /></a> </p>
 
