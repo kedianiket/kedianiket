@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://analytics-tuts.com/](https://analytics-tuts.com/)
 
-- 📫 How to reach me **admin@analytics-tuts.com**
+- 📫 How to reach me **niket@analytics-tuts.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
